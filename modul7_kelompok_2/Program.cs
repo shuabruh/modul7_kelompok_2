@@ -1,7 +1,9 @@
-﻿internal class Program
+﻿using DataMahasiswa_1302220072;
+internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        DataMahasiswa1302220072 dataMahasiswa = new DataMahasiswa1302220072();
+        dataMahasiswa.ReadJSON();
     }
 }
