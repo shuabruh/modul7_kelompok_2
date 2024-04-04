@@ -1,7 +1,9 @@
-﻿internal class Program
+﻿using DataMahasiswa1302223118_Rakha;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        DataMahasiswa1302223118_Rakha.readJSON();
     }
 }
