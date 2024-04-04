@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Rakha",
+       "lastName": "Galih",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223118"
+    },
+    {
+       "firstName": "Abdillah",
+       "lastName": "Aufa",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302220131"
+    },
+    {
+        "firstName": "Joshua",
+        "lastName": "Daniel",
+        "gender": "male",
+        "age": 20,
+        "nim": "1302220072"
+    },
+    {
+        "firstName": "Irvan",
+        "lastName": "Zawin",
+        "gender": "male",
+        "age": 20,
+        "nim": "1302223076"
+    }
+  ]
+}
